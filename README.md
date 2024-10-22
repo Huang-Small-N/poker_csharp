@@ -7,6 +7,7 @@ practice csharp
 功能:按下"start"啟動計時器，開始隨機切換1~13
 按下"stop"停止比大小
 
+https://hackmd.io/_uploads/ryEIDTVxJl.png
 
 ![image](https://hackmd.io/_uploads/ryEIDTVxJl.png)
 
