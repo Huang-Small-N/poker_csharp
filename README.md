@@ -9,9 +9,6 @@ practice csharp
 
 https://hackmd.io/_uploads/ryEIDTVxJl.png
 
-![image](https://hackmd.io/_uploads/ryEIDTVxJl.png)
-
-
 
 
 ```csharp=
